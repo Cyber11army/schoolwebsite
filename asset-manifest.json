@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/schoolwebsite/static/css/main.73b854f6.css",
-    "main.js": "/schoolwebsite/static/js/main.684634cd.js",
+    "main.js": "/schoolwebsite/static/js/main.15fbe6f8.js",
     "static/js/787.2c3f0605.chunk.js": "/schoolwebsite/static/js/787.2c3f0605.chunk.js",
     "static/media/school wallper 6.jpg": "/schoolwebsite/static/media/school wallper 6.315e22d8932e7a737b17.jpg",
     "static/media/school wallpaper 5.jpg": "/schoolwebsite/static/media/school wallpaper 5.70db05eb25c7512401b8.jpg",
@@ -26,11 +26,11 @@
     "static/media/Music Room.jpg": "/schoolwebsite/static/media/Music Room.e6525899896d4dda9636.jpg",
     "index.html": "/schoolwebsite/index.html",
     "main.73b854f6.css.map": "/schoolwebsite/static/css/main.73b854f6.css.map",
-    "main.684634cd.js.map": "/schoolwebsite/static/js/main.684634cd.js.map",
+    "main.15fbe6f8.js.map": "/schoolwebsite/static/js/main.15fbe6f8.js.map",
     "787.2c3f0605.chunk.js.map": "/schoolwebsite/static/js/787.2c3f0605.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73b854f6.css",
-    "static/js/main.684634cd.js"
+    "static/js/main.15fbe6f8.js"
   ]
 }
